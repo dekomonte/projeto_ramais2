@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "mysql2": "^3.11.3"
+  },
+  "name": "projeto_ramais2",
+  "version": "1.0.0",
+  "description": "Implementação mais robusta.",
+  "main": "conexao_db.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
